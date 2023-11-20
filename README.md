@@ -15,24 +15,24 @@ node index.js
 Metodos: 
 
 - GET
-[x] /api/clientes - Retorna todos os itens de clientes (lembrando que é necessário estar logado)
+/api/clientes - Retorna todos os itens de clientes (lembrando que é necessário estar logado)
 
 - POST
-[x] /api/clientes/login - Autentica usuário (e retorna um token)
-[x] /api/clientes/cadastro - Cadastro um novo cliente 
+/api/clientes/login - Autentica usuário (e retorna um token)
+/api/clientes/cadastro - Cadastro um novo cliente 
 
 - PUT
-[x] /api/clientes/atualizar - Atualiza um cliente pelo ID (lembrando que é necessário estar logado)
+/api/clientes/atualizar - Atualiza um cliente pelo ID (lembrando que é necessário estar logado)
 
 
 ## Segundo Serviço (Dados bancários):
 Rota em http://localhost:5000/api/banco/
 
 - GET
-[x] /api/banco - Retorna todos dados dos bancos
+/api/banco - Retorna todos dados dos bancos
 
 - POST
-[x] /api/banco/inclusao - Inclui novas informações bancárias
+/api/banco/inclusao - Inclui novas informações bancárias
 
 - PUT
-[x] /api/banco/atualizar/:id - Atualiza informações bancarias pelo id.
+/api/banco/atualizar/:id - Atualiza informações bancarias pelo id.
