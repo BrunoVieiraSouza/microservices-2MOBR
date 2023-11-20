@@ -30,9 +30,11 @@ Rota em http://localhost:5000/api/banco/
 
 - GET
 /api/banco - Retorna todos dados dos bancos
+<img width="720" alt="buscar-dados-conta" src="https://github.com/BrunoVieiraSouza/microservices-2MOBR/assets/81889362/26e85795-01a7-4989-8012-34f9cf41a175">
 
 - POST
 /api/banco/inclusao - Inclui novas informações bancárias
+<img width="662" alt="Inclusao-conta" src="https://github.com/BrunoVieiraSouza/microservices-2MOBR/assets/81889362/0d89ff46-a114-4487-a97c-d9a457c64428">
 
 - PUT
 /api/banco/atualizar/:id - Atualiza informações bancarias pelo id.
