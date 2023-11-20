@@ -16,10 +16,14 @@ Metodos:
 
 - GET
 /api/clientes - Retorna todos os itens de clientes (lembrando que é necessário estar logado)
+<img width="752" alt="Captura de Tela 2023-11-20 às 19 08 15" src="https://github.com/BrunoVieiraSouza/microservices-2MOBR/assets/81889362/c02bbf55-4d8f-498c-ac4d-8f6f073fa246">
+
 
 - POST
 /api/clientes/login - Autentica usuário (e retorna um token)
 /api/clientes/cadastro - Cadastro um novo cliente 
+<img width="717" alt="Captura de Tela 2023-11-20 às 19 07 32" src="https://github.com/BrunoVieiraSouza/microservices-2MOBR/assets/81889362/834daf00-4206-425e-a20e-87ef9a2aab10">
+
 
 - PUT
 /api/clientes/atualizar - Atualiza um cliente pelo ID (lembrando que é necessário estar logado)
