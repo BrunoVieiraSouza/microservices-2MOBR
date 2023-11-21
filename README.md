@@ -8,9 +8,9 @@ Rota em http://localhost:4000/api/clientes
 
 Servico para criar CADASTRAR um usuários e capaz de criptografar a senha e autenticar o usuario. E Também é possível manipular os dados do cliente sendo necessário estar logado. 
 
-Passos:
-npm i mongoose
-node index.js 
+Passos:<br><br>
+npm i mongoose<br><br>
+node index.js <br><br>
 
 Metodos: 
 
